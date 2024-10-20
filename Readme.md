@@ -1,1 +1,1 @@
-# Esto es una prueba
+# Guia de comandos para Django.
