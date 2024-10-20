@@ -22,3 +22,4 @@
 ### DjangoRestFramework
 
 1. Instalar DjangoRest: `pip3 install djangorestframework`
+2. Doc con plugin drf-yasg, la pagina oficial es: https://drf-yasg.readthedocs.io/en/stable/readme.html#openapi-3-0-note
